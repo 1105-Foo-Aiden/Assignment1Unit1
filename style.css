@@ -1,0 +1,44 @@
+h1
+{
+    color: rgb(0, 115, 255);
+    text-align: center;
+    font-size: 50px;
+}
+body
+{
+    background-color: rgb(114, 112, 112);
+}
+ol
+{
+    list-style: upper-roman;
+    font-size: 20px;
+    color:  white; 
+}
+a
+{
+    color: lightsteelblue;
+}
+h3
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+    
+}
+.boxModel
+{
+    display: flex;
+    justify-content: center;
+}
+.flexMe
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+div
+{
+    font-size: 15px;
+    text-align: center;
+}
